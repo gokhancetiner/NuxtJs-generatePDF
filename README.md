@@ -19,4 +19,8 @@ $ npm run start
 $ npm run generate
 ```
 
+## External Library
+jsPDF : https://github.com/MrRio/jsPDF
+html2Canvas: https://github.com/niklasvh/html2canvas
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
