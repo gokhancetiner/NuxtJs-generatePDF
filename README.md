@@ -18,5 +18,10 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+# External Library
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+jsPDF : https://github.com/MrRio/jsPDF <br/>
+html2Canvas: https://github.com/niklasvh/html2canvas
+
+# Example Page
+You can find examples at pages/index.vue file
